@@ -1,5 +1,7 @@
-// Visually hide an element (Commonly used for hiding form input labels according to WCAG) but still keep it active
-// Element is one may say technically visible but practically hidden
+/* 
+  Visually hide an element (Commonly used for hiding form input labels according to WCAG) but still keep it active
+  Element is one may say technically visible but practically hidden
+*/
 
 .visuallyhidden {
   border: 0;
